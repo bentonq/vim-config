@@ -1,5 +1,5 @@
 " ============================================================================
-" Authur: bentonq <bentonq@gmail.com>
+" Author: bentonq <bentonq@gmail.com>
 " Update time: 2012/06/15
 " ============================================================================
 
@@ -9,6 +9,9 @@
 " Define the <leader> at the very beginning.
 let mapleader=","
 let g:mapleader=","
+
+" Make vim plugin folder more portable between Windows and Linux.
+set runtimepath+=$VIM/.vim
 
 " When started as 'evim', evim.vim will already have done there settings.
 if v:progname =~? "evim"
