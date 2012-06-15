@@ -81,6 +81,18 @@ set nocul
 " Show line number.
 set nu
 
+" Hide scrollbar.
+set guioptions-=r
+set guioptions-=R
+set guioptions-=l
+set guioptions-=L
+set guioptions-=b
+set guioptions-=B
+
+" Hide toolbar.
+set guioptions-=t
+set guioptions-=T
+
 " Enable mouse in all modes.
 if has('mouse')
     set mouse=a
