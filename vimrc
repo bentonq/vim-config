@@ -11,7 +11,7 @@ let mapleader=","
 let g:mapleader=","
 
 " When started as 'evim', evim.vim will already have done there settings.
-if v:progname =~? "evim"
+if v:progname =~?"evim"
     finish
 endif
 
@@ -79,7 +79,7 @@ set nocul
 set nu
 
 " Completion window options.
-set completeopt=menuone,menu,longest
+set completeopt=menuone,menu
 
 " Hide scrollbar.
 set guioptions-=r
@@ -99,10 +99,10 @@ if has('mouse')
 endif
 
 " Move among windows hotkey.
-nnoremap <silent><C-h>	<C-W>h
-nnoremap <silent><C-l>	<C-W>l
-nnoremap <silent><C-j>	<C-W>j
-nnoremap <silent><C-k>	<C-W>k
+nnoremap <silent><C-h> <C-W>h
+nnoremap <silent><C-l> <C-W>l
+nnoremap <silent><C-j> <C-W>j
+nnoremap <silent><C-k> <C-W>k
 
 " """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " Edit Options
@@ -165,7 +165,11 @@ let g:NERDTreeWinPos="right"
 nnoremap <silent><F3> :NERDTreeToggle<CR>
 
 " omnicppcomplete
-let OmniCpp_ShowPrototypeInAbbr=1
 let OmniCpp_DefaultNamespaces=["std", "_GLIBCXX_STD"]
+let OmniCpp_ShowPrototypeInAbbr=1
 let OmniCpp_MayCompleteScope=1
 let OmniCpp_LocalSearchDecl=1
+
+" supertab
+let g:SuperTabMappingForward='<s-tab>'
+let g:SuperTabMappingBackward='<tab>'
