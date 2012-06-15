@@ -24,11 +24,8 @@ map Q gq
 " Make backspace working like bacespace in edit mode.
 set backspace=indent,eol,start
 
-" Enable automatic file type detected.
+" Enable file type dectection and loading the plugin and indent file.
 filetype plugin indent on
-
-" Search 'tags' from the current folder up to the '/'.
-set tags=./tags;
 
 " Don't pollute any folders.
 set nobackup
@@ -80,6 +77,9 @@ set nocul
 
 " Show line number.
 set nu
+
+" Completion window options.
+set completeopt=menuone,menu,longest
 
 " Hide scrollbar.
 set guioptions-=r
@@ -146,8 +146,26 @@ set guifont=Consolas:h11:cANSI
 set lcs=tab:@@,trail:^,eol:$
 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" Tags
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" Gen tag command.
+map <C-F12> :!ctags -R --c++-kinds=+p --fields=+iaS --extra=+q --language-force=c++ <CR>
+
+" Search 'tags' from the current folder up to the '/'.
+set tags=./tags;
+
+" Add pre-generate tags.
+set tags+=$VIM/tags/cpp
+
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " Plugins
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" NERD_tree.vim
+" NERD_tree
 let g:NERDTreeWinPos="right"
 nnoremap <silent><F3> :NERDTreeToggle<CR>
+
+" omnicppcomplete
+let OmniCpp_ShowPrototypeInAbbr=1
+let OmniCpp_DefaultNamespaces=["std", "_GLIBCXX_STD"]
+let OmniCpp_MayCompleteScope=1
+let OmniCpp_LocalSearchDecl=1
