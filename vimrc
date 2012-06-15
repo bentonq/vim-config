@@ -69,8 +69,8 @@ set showcmd
 " Omni command will show a menu
 set wildmenu
 
-" Long line will displaying countinues on the new line.
-set wrap
+" Long line wrap settings.
+set nowrap
 
 " Don't hightlight current line.
 set nocul
