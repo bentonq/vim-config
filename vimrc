@@ -10,9 +10,6 @@
 let mapleader=","
 let g:mapleader=","
 
-" Make vim plugin folder more portable between Windows and Linux.
-set runtimepath+=$VIM/.vim
-
 " When started as 'evim', evim.vim will already have done there settings.
 if v:progname =~? "evim"
     finish
@@ -158,7 +155,7 @@ map <C-F12> :!ctags -R --c++-kinds=+p --fields=+iaS --extra=+q --language-force=
 set tags=./tags;
 
 " Add pre-generate tags.
-set tags+=$VIM/tags/cpp
+set tags+=$VIM/.vimdata/tags/cpp
 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " Plugins
