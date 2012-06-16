@@ -173,3 +173,8 @@ let OmniCpp_LocalSearchDecl=1
 " supertab
 let g:SuperTabMappingForward='<s-tab>'
 let g:SuperTabMappingBackward='<tab>'
+
+" tagbar
+let g:tagbar_left=1
+let g:tagbar_sort=0
+nnoremap <silent> <F2> :TagbarToggle<CR>
