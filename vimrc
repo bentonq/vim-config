@@ -170,11 +170,11 @@ let OmniCpp_ShowPrototypeInAbbr=1
 let OmniCpp_MayCompleteScope=1
 let OmniCpp_LocalSearchDecl=1
 
-" supertab
-let g:SuperTabMappingForward='<s-tab>'
-let g:SuperTabMappingBackward='<tab>'
-
 " tagbar
 let g:tagbar_left=1
 let g:tagbar_sort=0
-nnoremap <silent> <F2> :TagbarToggle<CR>
+nnoremap <silent><F2> :TagbarToggle<CR>
+
+" fswitch
+nnoremap <silent><F4> :FSHere<CR>
+nnoremap <silent><s-F4> :FSRight<CR>
