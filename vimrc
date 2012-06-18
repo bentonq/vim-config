@@ -1,6 +1,6 @@
 " ============================================================================
 " Author: bentonq <bentonq@gmail.com>
-" Update time: 2012/06/15
+" Update time: 2012/06/18
 " ============================================================================
 
 " """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -21,7 +21,7 @@ set nocompatible
 " Don't use Ex-mode, use Q for formatting.
 map Q gq
 
-" Make backspace working like bacespace in edit mode.
+" Make backspace working like 'backspace' in edit mode.
 set backspace=indent,eol,start
 
 " Enable file type dectection and loading the plugin and indent file.
@@ -36,7 +36,7 @@ set noswapfile
 set autoread
 set autowrite
 
-" Action's record number.
+" Max history item number.
 set history=50
 
 " Always use utf-8 as character encoding.
@@ -49,7 +49,7 @@ source $VIMRUNTIME/delmenu.vim
 source $VIMRUNTIME/menu.vim
 
 " Fix console message garbled.
-language messages zh_CN.utf-8
+language messages en_US.utf-8
 
 " Restore cursor position
 autocmd BufReadPost *
@@ -60,10 +60,10 @@ autocmd BufReadPost *
 " """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " Layout Options
 " """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" Show the line and column number of the curesor position.
+" Show the line and column number of the cursor position.
 set ruler
 
-" Show (partial) cmmand in the last line of the screen.
+" Show (partial) command in the last line of the screen.
 set showcmd
 
 " Omni command will show a menu
@@ -155,7 +155,11 @@ map <C-F12> :!ctags -R --c++-kinds=+p --fields=+iaS --extra=+q --language-force=
 set tags=./tags;
 
 " Add pre-generate tags.
-set tags+=$VIM/.vimdata/tags/cpp
+if has('win32')
+    set tags+=$VIM/.vimdata/tags/cpp
+else
+    set tags+=~/.vimdata/tags/cpp
+endif
 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " Plugins
