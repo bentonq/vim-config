@@ -1,6 +1,7 @@
 " ============================================================================
 " Author: bentonq <bentonq@gmail.com>
-" Update time: 2012/06/18
+" Created: 2012/06/15
+" Modified: 2012/06/18
 " ============================================================================
 
 " """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -153,7 +154,7 @@ set lcs=tab:@@,trail:^,eol:$
 " Tags
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " Gen tag command.
-map <C-F12> :!ctags -R --c++-kinds=+p --fields=+iaS --extra=+q --language-force=c++ <CR>
+map <C-F12> :silent !ctags -R --c++-kinds=+p --fields=+iaS --extra=+q --language-force=c++ <CR><CR>
 
 " Search 'tags' from the current folder up to the '/'.
 set tags=./tags;
