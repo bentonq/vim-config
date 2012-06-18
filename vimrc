@@ -177,4 +177,8 @@ nnoremap <silent><F2> :TagbarToggle<CR>
 
 " fswitch
 nnoremap <silent><F4> :FSHere<CR>
-nnoremap <silent><s-F4> :FSRight<CR>
+nnoremap <silent><s-F4> :FSSplitRight<CR>
+
+" supertab
+let g:SuperTabMappingForward='<s-tab>'
+let g:SuperTabMappingBackward='<tab>'
