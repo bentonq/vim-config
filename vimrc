@@ -129,6 +129,10 @@ set incsearch
 " Hightlight searching keyword.
 set hlsearch
 
+" Don't ignore case when search and completion.
+set noignorecase
+set infercase
+
 " """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " Theme Options
 " """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -157,8 +161,10 @@ set tags=./tags;
 " Add pre-generate tags.
 if has('win32')
     set tags+=$VIM/.vimdata/tags/cpp
+    set tags+=$VIM/.vimdata/tags/glut
 else
     set tags+=~/.vimdata/tags/cpp
+    set tags+=~/.vimdata/tags/glut
 endif
 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""

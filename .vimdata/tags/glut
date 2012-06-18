@@ -1,0 +1,510 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+$	.\tags	/^format	.\\tags	\/^!_TAG_FILE_FORMAT	2	\\\/extended format; --format=1 will not append ;" to lines\\\/$\/;"	v$/;"	v
+FGAPI	.\GL\freeglut_std.h	106;"	d
+FGAPI	.\GL\freeglut_std.h	68;"	d
+FGAPI	.\GL\freeglut_std.h	81;"	d
+FGAPI	.\GL\freeglut_std.h	83;"	d
+FGAPIENTRY	.\GL\freeglut_std.h	107;"	d
+FGAPIENTRY	.\GL\freeglut_std.h	69;"	d
+FGAPIENTRY	.\GL\freeglut_std.h	79;"	d
+FGUNUSED	.\GL\freeglut_std.h	608;"	d
+FGUNUSED	.\GL\freeglut_std.h	610;"	d
+FREEGLUT	.\GL\freeglut_std.h	114;"	d
+FREEGLUT_LIB_PRAGMAS	.\GL\freeglut_std.h	51;"	d
+FREEGLUT_LIB_PRAGMAS	.\GL\freeglut_std.h	53;"	d
+FREEGLUT_VERSION_2_0	.\GL\freeglut_std.h	116;"	d
+GLUT_ACCUM	.\GL\freeglut_std.h	169;"	d
+GLUT_ACTION_CONTINUE_EXECUTION	.\GL\freeglut_ext.h	53;"	d
+GLUT_ACTION_EXIT	.\GL\freeglut_ext.h	51;"	d
+GLUT_ACTION_GLUTMAINLOOP_RETURNS	.\GL\freeglut_ext.h	52;"	d
+GLUT_ACTION_ON_WINDOW_CLOSE	.\GL\freeglut_ext.h	74;"	d
+GLUT_ACTIVE_ALT	.\GL\freeglut_std.h	329;"	d
+GLUT_ACTIVE_CTRL	.\GL\freeglut_std.h	328;"	d
+GLUT_ACTIVE_SHIFT	.\GL\freeglut_std.h	327;"	d
+GLUT_ALLOW_DIRECT_CONTEXT	.\GL\freeglut_ext.h	65;"	d
+GLUT_ALPHA	.\GL\freeglut_std.h	170;"	d
+GLUT_API_VERSION	.\GL\freeglut_std.h	115;"	d
+GLUT_AUX	.\GL\freeglut_ext.h	91;"	d
+GLUT_AUX1	.\GL\freeglut_ext.h	93;"	d
+GLUT_AUX2	.\GL\freeglut_ext.h	94;"	d
+GLUT_AUX3	.\GL\freeglut_ext.h	95;"	d
+GLUT_AUX4	.\GL\freeglut_ext.h	96;"	d
+GLUT_BITMAP_8_BY_13	.\GL\freeglut_std.h	198;"	d
+GLUT_BITMAP_8_BY_13	.\GL\freeglut_std.h	224;"	d
+GLUT_BITMAP_9_BY_15	.\GL\freeglut_std.h	197;"	d
+GLUT_BITMAP_9_BY_15	.\GL\freeglut_std.h	223;"	d
+GLUT_BITMAP_HELVETICA_10	.\GL\freeglut_std.h	201;"	d
+GLUT_BITMAP_HELVETICA_10	.\GL\freeglut_std.h	227;"	d
+GLUT_BITMAP_HELVETICA_12	.\GL\freeglut_std.h	202;"	d
+GLUT_BITMAP_HELVETICA_12	.\GL\freeglut_std.h	228;"	d
+GLUT_BITMAP_HELVETICA_18	.\GL\freeglut_std.h	203;"	d
+GLUT_BITMAP_HELVETICA_18	.\GL\freeglut_std.h	229;"	d
+GLUT_BITMAP_TIMES_ROMAN_10	.\GL\freeglut_std.h	199;"	d
+GLUT_BITMAP_TIMES_ROMAN_10	.\GL\freeglut_std.h	225;"	d
+GLUT_BITMAP_TIMES_ROMAN_24	.\GL\freeglut_std.h	200;"	d
+GLUT_BITMAP_TIMES_ROMAN_24	.\GL\freeglut_std.h	226;"	d
+GLUT_BLUE	.\GL\freeglut_std.h	363;"	d
+GLUT_BORDERLESS	.\GL\freeglut_ext.h	227;"	d
+GLUT_CAPTIONLESS	.\GL\freeglut_ext.h	226;"	d
+GLUT_COMPATIBILITY_PROFILE	.\GL\freeglut_ext.h	117;"	d
+GLUT_CORE_PROFILE	.\GL\freeglut_ext.h	116;"	d
+GLUT_CREATE_NEW_CONTEXT	.\GL\freeglut_ext.h	58;"	d
+GLUT_CURSOR_BOTTOM_LEFT_CORNER	.\GL\freeglut_std.h	353;"	d
+GLUT_CURSOR_BOTTOM_RIGHT_CORNER	.\GL\freeglut_std.h	352;"	d
+GLUT_CURSOR_BOTTOM_SIDE	.\GL\freeglut_std.h	347;"	d
+GLUT_CURSOR_CROSSHAIR	.\GL\freeglut_std.h	343;"	d
+GLUT_CURSOR_CYCLE	.\GL\freeglut_std.h	339;"	d
+GLUT_CURSOR_DESTROY	.\GL\freeglut_std.h	337;"	d
+GLUT_CURSOR_FULL_CROSSHAIR	.\GL\freeglut_std.h	356;"	d
+GLUT_CURSOR_HELP	.\GL\freeglut_std.h	338;"	d
+GLUT_CURSOR_INFO	.\GL\freeglut_std.h	336;"	d
+GLUT_CURSOR_INHERIT	.\GL\freeglut_std.h	354;"	d
+GLUT_CURSOR_LEFT_ARROW	.\GL\freeglut_std.h	335;"	d
+GLUT_CURSOR_LEFT_RIGHT	.\GL\freeglut_std.h	345;"	d
+GLUT_CURSOR_LEFT_SIDE	.\GL\freeglut_std.h	348;"	d
+GLUT_CURSOR_NONE	.\GL\freeglut_std.h	355;"	d
+GLUT_CURSOR_RIGHT_ARROW	.\GL\freeglut_std.h	334;"	d
+GLUT_CURSOR_RIGHT_SIDE	.\GL\freeglut_std.h	349;"	d
+GLUT_CURSOR_SPRAY	.\GL\freeglut_std.h	340;"	d
+GLUT_CURSOR_TEXT	.\GL\freeglut_std.h	342;"	d
+GLUT_CURSOR_TOP_LEFT_CORNER	.\GL\freeglut_std.h	350;"	d
+GLUT_CURSOR_TOP_RIGHT_CORNER	.\GL\freeglut_std.h	351;"	d
+GLUT_CURSOR_TOP_SIDE	.\GL\freeglut_std.h	346;"	d
+GLUT_CURSOR_UP_DOWN	.\GL\freeglut_std.h	344;"	d
+GLUT_CURSOR_WAIT	.\GL\freeglut_std.h	341;"	d
+GLUT_DEBUG	.\GL\freeglut_ext.h	109;"	d
+GLUT_DEPTH	.\GL\freeglut_std.h	171;"	d
+GLUT_DEVICE_IGNORE_KEY_REPEAT	.\GL\freeglut_std.h	286;"	d
+GLUT_DEVICE_KEY_REPEAT	.\GL\freeglut_std.h	287;"	d
+GLUT_DIRECT_RENDERING	.\GL\freeglut_ext.h	82;"	d
+GLUT_DISPLAY_MODE_POSSIBLE	.\GL\freeglut_std.h	264;"	d
+GLUT_DOUBLE	.\GL\freeglut_std.h	168;"	d
+GLUT_DOWN	.\GL\freeglut_std.h	156;"	d
+GLUT_ELAPSED_TIME	.\GL\freeglut_std.h	270;"	d
+GLUT_ENTERED	.\GL\freeglut_std.h	159;"	d
+GLUT_FORCE_DIRECT_CONTEXT	.\GL\freeglut_ext.h	67;"	d
+GLUT_FORCE_INDIRECT_CONTEXT	.\GL\freeglut_ext.h	64;"	d
+GLUT_FORWARD_COMPATIBLE	.\GL\freeglut_ext.h	110;"	d
+GLUT_FULLY_COVERED	.\GL\freeglut_std.h	187;"	d
+GLUT_FULLY_RETAINED	.\GL\freeglut_std.h	185;"	d
+GLUT_FULL_SCREEN	.\GL\freeglut_ext.h	84;"	d
+GLUT_GAME_MODE_ACTIVE	.\GL\freeglut_std.h	380;"	d
+GLUT_GAME_MODE_DISPLAY_CHANGED	.\GL\freeglut_std.h	386;"	d
+GLUT_GAME_MODE_HEIGHT	.\GL\freeglut_std.h	383;"	d
+GLUT_GAME_MODE_PIXEL_DEPTH	.\GL\freeglut_std.h	384;"	d
+GLUT_GAME_MODE_POSSIBLE	.\GL\freeglut_std.h	381;"	d
+GLUT_GAME_MODE_REFRESH_RATE	.\GL\freeglut_std.h	385;"	d
+GLUT_GAME_MODE_WIDTH	.\GL\freeglut_std.h	382;"	d
+GLUT_GREEN	.\GL\freeglut_std.h	362;"	d
+GLUT_HAS_DIAL_AND_BUTTON_BOX	.\GL\freeglut_std.h	279;"	d
+GLUT_HAS_JOYSTICK	.\GL\freeglut_std.h	288;"	d
+GLUT_HAS_KEYBOARD	.\GL\freeglut_std.h	276;"	d
+GLUT_HAS_MOUSE	.\GL\freeglut_std.h	277;"	d
+GLUT_HAS_MULTI	.\GL\freeglut_ext.h	180;"	d
+GLUT_HAS_OVERLAY	.\GL\freeglut_std.h	299;"	d
+GLUT_HAS_SPACEBALL	.\GL\freeglut_std.h	278;"	d
+GLUT_HAS_TABLET	.\GL\freeglut_std.h	280;"	d
+GLUT_HIDDEN	.\GL\freeglut_std.h	184;"	d
+GLUT_INDEX	.\GL\freeglut_std.h	166;"	d
+GLUT_INIT_DISPLAY_MODE	.\GL\freeglut_std.h	269;"	d
+GLUT_INIT_FLAGS	.\GL\freeglut_ext.h	103;"	d
+GLUT_INIT_MAJOR_VERSION	.\GL\freeglut_ext.h	101;"	d
+GLUT_INIT_MINOR_VERSION	.\GL\freeglut_ext.h	102;"	d
+GLUT_INIT_PROFILE	.\GL\freeglut_ext.h	104;"	d
+GLUT_INIT_STATE	.\GL\freeglut_ext.h	72;"	d
+GLUT_INIT_WINDOW_HEIGHT	.\GL\freeglut_std.h	268;"	d
+GLUT_INIT_WINDOW_WIDTH	.\GL\freeglut_std.h	267;"	d
+GLUT_INIT_WINDOW_X	.\GL\freeglut_std.h	265;"	d
+GLUT_INIT_WINDOW_Y	.\GL\freeglut_std.h	266;"	d
+GLUT_JOYSTICK_AXES	.\GL\freeglut_std.h	291;"	d
+GLUT_JOYSTICK_BUTTONS	.\GL\freeglut_std.h	290;"	d
+GLUT_JOYSTICK_BUTTON_A	.\GL\freeglut_std.h	372;"	d
+GLUT_JOYSTICK_BUTTON_B	.\GL\freeglut_std.h	373;"	d
+GLUT_JOYSTICK_BUTTON_C	.\GL\freeglut_std.h	374;"	d
+GLUT_JOYSTICK_BUTTON_D	.\GL\freeglut_std.h	375;"	d
+GLUT_JOYSTICK_POLL_RATE	.\GL\freeglut_std.h	292;"	d
+GLUT_KEY_ALT_L	.\GL\freeglut_ext.h	45;"	d
+GLUT_KEY_ALT_R	.\GL\freeglut_ext.h	46;"	d
+GLUT_KEY_BEGIN	.\GL\freeglut_ext.h	39;"	d
+GLUT_KEY_CTRL_L	.\GL\freeglut_ext.h	43;"	d
+GLUT_KEY_CTRL_R	.\GL\freeglut_ext.h	44;"	d
+GLUT_KEY_DELETE	.\GL\freeglut_ext.h	40;"	d
+GLUT_KEY_DOWN	.\GL\freeglut_std.h	143;"	d
+GLUT_KEY_END	.\GL\freeglut_std.h	147;"	d
+GLUT_KEY_F1	.\GL\freeglut_std.h	128;"	d
+GLUT_KEY_F10	.\GL\freeglut_std.h	137;"	d
+GLUT_KEY_F11	.\GL\freeglut_std.h	138;"	d
+GLUT_KEY_F12	.\GL\freeglut_std.h	139;"	d
+GLUT_KEY_F2	.\GL\freeglut_std.h	129;"	d
+GLUT_KEY_F3	.\GL\freeglut_std.h	130;"	d
+GLUT_KEY_F4	.\GL\freeglut_std.h	131;"	d
+GLUT_KEY_F5	.\GL\freeglut_std.h	132;"	d
+GLUT_KEY_F6	.\GL\freeglut_std.h	133;"	d
+GLUT_KEY_F7	.\GL\freeglut_std.h	134;"	d
+GLUT_KEY_F8	.\GL\freeglut_std.h	135;"	d
+GLUT_KEY_F9	.\GL\freeglut_std.h	136;"	d
+GLUT_KEY_HOME	.\GL\freeglut_std.h	146;"	d
+GLUT_KEY_INSERT	.\GL\freeglut_std.h	148;"	d
+GLUT_KEY_LEFT	.\GL\freeglut_std.h	140;"	d
+GLUT_KEY_NUM_LOCK	.\GL\freeglut_ext.h	38;"	d
+GLUT_KEY_PAGE_DOWN	.\GL\freeglut_std.h	145;"	d
+GLUT_KEY_PAGE_UP	.\GL\freeglut_std.h	144;"	d
+GLUT_KEY_REPEAT_DEFAULT	.\GL\freeglut_std.h	370;"	d
+GLUT_KEY_REPEAT_OFF	.\GL\freeglut_std.h	368;"	d
+GLUT_KEY_REPEAT_ON	.\GL\freeglut_std.h	369;"	d
+GLUT_KEY_RIGHT	.\GL\freeglut_std.h	142;"	d
+GLUT_KEY_SHIFT_L	.\GL\freeglut_ext.h	41;"	d
+GLUT_KEY_SHIFT_R	.\GL\freeglut_ext.h	42;"	d
+GLUT_KEY_UP	.\GL\freeglut_std.h	141;"	d
+GLUT_LAYER_IN_USE	.\GL\freeglut_std.h	298;"	d
+GLUT_LEFT	.\GL\freeglut_std.h	158;"	d
+GLUT_LEFT_BUTTON	.\GL\freeglut_std.h	153;"	d
+GLUT_LUMINANCE	.\GL\freeglut_std.h	175;"	d
+GLUT_MENU_IN_USE	.\GL\freeglut_std.h	181;"	d
+GLUT_MENU_NOT_IN_USE	.\GL\freeglut_std.h	180;"	d
+GLUT_MENU_NUM_ITEMS	.\GL\freeglut_std.h	263;"	d
+GLUT_MIDDLE_BUTTON	.\GL\freeglut_std.h	154;"	d
+GLUT_MULTISAMPLE	.\GL\freeglut_std.h	173;"	d
+GLUT_NORMAL	.\GL\freeglut_std.h	321;"	d
+GLUT_NORMAL_DAMAGED	.\GL\freeglut_std.h	301;"	d
+GLUT_NOT_VISIBLE	.\GL\freeglut_std.h	182;"	d
+GLUT_NUM_BUTTON_BOX_BUTTONS	.\GL\freeglut_std.h	283;"	d
+GLUT_NUM_DIALS	.\GL\freeglut_std.h	284;"	d
+GLUT_NUM_MOUSE_BUTTONS	.\GL\freeglut_std.h	281;"	d
+GLUT_NUM_SPACEBALL_BUTTONS	.\GL\freeglut_std.h	282;"	d
+GLUT_NUM_TABLET_BUTTONS	.\GL\freeglut_std.h	285;"	d
+GLUT_OVERLAY	.\GL\freeglut_std.h	322;"	d
+GLUT_OVERLAY_DAMAGED	.\GL\freeglut_std.h	302;"	d
+GLUT_OVERLAY_POSSIBLE	.\GL\freeglut_std.h	297;"	d
+GLUT_OWNS_JOYSTICK	.\GL\freeglut_std.h	289;"	d
+GLUT_PARTIALLY_RETAINED	.\GL\freeglut_std.h	186;"	d
+GLUT_RED	.\GL\freeglut_std.h	361;"	d
+GLUT_RENDERING_CONTEXT	.\GL\freeglut_ext.h	81;"	d
+GLUT_RGB	.\GL\freeglut_std.h	164;"	d
+GLUT_RGBA	.\GL\freeglut_std.h	165;"	d
+GLUT_RIGHT_BUTTON	.\GL\freeglut_std.h	155;"	d
+GLUT_SCREEN_HEIGHT	.\GL\freeglut_std.h	260;"	d
+GLUT_SCREEN_HEIGHT_MM	.\GL\freeglut_std.h	262;"	d
+GLUT_SCREEN_WIDTH	.\GL\freeglut_std.h	259;"	d
+GLUT_SCREEN_WIDTH_MM	.\GL\freeglut_std.h	261;"	d
+GLUT_SINGLE	.\GL\freeglut_std.h	167;"	d
+GLUT_SRGB	.\GL\freeglut_ext.h	228;"	d
+GLUT_STENCIL	.\GL\freeglut_std.h	172;"	d
+GLUT_STEREO	.\GL\freeglut_std.h	174;"	d
+GLUT_STROKE_MONO_ROMAN	.\GL\freeglut_std.h	196;"	d
+GLUT_STROKE_MONO_ROMAN	.\GL\freeglut_std.h	222;"	d
+GLUT_STROKE_ROMAN	.\GL\freeglut_std.h	195;"	d
+GLUT_STROKE_ROMAN	.\GL\freeglut_std.h	221;"	d
+GLUT_TRANSPARENT_INDEX	.\GL\freeglut_std.h	300;"	d
+GLUT_TRY_DIRECT_CONTEXT	.\GL\freeglut_ext.h	66;"	d
+GLUT_UP	.\GL\freeglut_std.h	157;"	d
+GLUT_USE_CURRENT_CONTEXT	.\GL\freeglut_ext.h	59;"	d
+GLUT_VERSION	.\GL\freeglut_ext.h	79;"	d
+GLUT_VIDEO_RESIZE_HEIGHT	.\GL\freeglut_std.h	316;"	d
+GLUT_VIDEO_RESIZE_HEIGHT_DELTA	.\GL\freeglut_std.h	312;"	d
+GLUT_VIDEO_RESIZE_IN_USE	.\GL\freeglut_std.h	308;"	d
+GLUT_VIDEO_RESIZE_POSSIBLE	.\GL\freeglut_std.h	307;"	d
+GLUT_VIDEO_RESIZE_WIDTH	.\GL\freeglut_std.h	315;"	d
+GLUT_VIDEO_RESIZE_WIDTH_DELTA	.\GL\freeglut_std.h	311;"	d
+GLUT_VIDEO_RESIZE_X	.\GL\freeglut_std.h	313;"	d
+GLUT_VIDEO_RESIZE_X_DELTA	.\GL\freeglut_std.h	309;"	d
+GLUT_VIDEO_RESIZE_Y	.\GL\freeglut_std.h	314;"	d
+GLUT_VIDEO_RESIZE_Y_DELTA	.\GL\freeglut_std.h	310;"	d
+GLUT_VISIBLE	.\GL\freeglut_std.h	183;"	d
+GLUT_WINDOW_ACCUM_ALPHA_SIZE	.\GL\freeglut_std.h	249;"	d
+GLUT_WINDOW_ACCUM_BLUE_SIZE	.\GL\freeglut_std.h	248;"	d
+GLUT_WINDOW_ACCUM_GREEN_SIZE	.\GL\freeglut_std.h	247;"	d
+GLUT_WINDOW_ACCUM_RED_SIZE	.\GL\freeglut_std.h	246;"	d
+GLUT_WINDOW_ALPHA_SIZE	.\GL\freeglut_std.h	245;"	d
+GLUT_WINDOW_BLUE_SIZE	.\GL\freeglut_std.h	244;"	d
+GLUT_WINDOW_BORDER_WIDTH	.\GL\freeglut_ext.h	76;"	d
+GLUT_WINDOW_BUFFER_SIZE	.\GL\freeglut_std.h	239;"	d
+GLUT_WINDOW_COLORMAP_SIZE	.\GL\freeglut_std.h	254;"	d
+GLUT_WINDOW_CURSOR	.\GL\freeglut_std.h	257;"	d
+GLUT_WINDOW_DEPTH_SIZE	.\GL\freeglut_std.h	241;"	d
+GLUT_WINDOW_DOUBLEBUFFER	.\GL\freeglut_std.h	250;"	d
+GLUT_WINDOW_FORMAT_ID	.\GL\freeglut_std.h	271;"	d
+GLUT_WINDOW_GREEN_SIZE	.\GL\freeglut_std.h	243;"	d
+GLUT_WINDOW_HEADER_HEIGHT	.\GL\freeglut_ext.h	77;"	d
+GLUT_WINDOW_HEIGHT	.\GL\freeglut_std.h	238;"	d
+GLUT_WINDOW_NUM_CHILDREN	.\GL\freeglut_std.h	253;"	d
+GLUT_WINDOW_NUM_SAMPLES	.\GL\freeglut_std.h	255;"	d
+GLUT_WINDOW_PARENT	.\GL\freeglut_std.h	252;"	d
+GLUT_WINDOW_RED_SIZE	.\GL\freeglut_std.h	242;"	d
+GLUT_WINDOW_RGBA	.\GL\freeglut_std.h	251;"	d
+GLUT_WINDOW_STENCIL_SIZE	.\GL\freeglut_std.h	240;"	d
+GLUT_WINDOW_STEREO	.\GL\freeglut_std.h	256;"	d
+GLUT_WINDOW_WIDTH	.\GL\freeglut_std.h	237;"	d
+GLUT_WINDOW_X	.\GL\freeglut_std.h	235;"	d
+GLUT_WINDOW_Y	.\GL\freeglut_std.h	236;"	d
+GLUT_XLIB_IMPLEMENTATION	.\GL\freeglut_std.h	117;"	d
+GLUTproc	.\GL\freeglut_ext.h	/^typedef void (*GLUTproc)();$/;"	t
+NOMINMAX	.\GL\freeglut_std.h	61;"	d
+WIN32_LEAN_AND_MEAN	.\GL\freeglut_std.h	58;"	d
+__FREEGLUT_EXT_H__	.\GL\freeglut_ext.h	2;"	d
+__FREEGLUT_H__	.\GL\freeglut.h	2;"	d
+__FREEGLUT_STD_H__	.\GL\freeglut_std.h	2;"	d
+__GLUT_H__	.\GL\glut.h	2;"	d
+__glutCreateMenuWithExit	.\GL\freeglut_std.h	/^FGAPI int FGAPIENTRY __glutCreateMenuWithExit(void (* func)(int), void (__cdecl *exitfunc)(int));$/;"	p	signature:(void (* func)(int), void (__cdecl *exitfunc)(int))
+__glutCreateWindowWithExit	.\GL\freeglut_std.h	/^FGAPI int FGAPIENTRY __glutCreateWindowWithExit(const char *title, void (__cdecl *exitfunc)(int));$/;"	p	signature:(const char *title, void (__cdecl *exitfunc)(int))
+__glutCreateWindowWithExit	.\tags	/^__glutCreateWindowWithExit	.\\GL\\freeglut_std.h	\/^FGAPI int FGAPIENTRY __glutCreateWindowWithExit(const char *title, void (__cdecl *exitfunc)(int));$\/;"	p	signature:(const char *title, void (__cdecl *exitfunc)(int))$/;"	p	file:	signature:(const char *title, void (__cdecl *exitfunc)(int))
+__glutInitWithExit	.\GL\freeglut_std.h	/^FGAPI void FGAPIENTRY __glutInitWithExit(int *argcp, char **argv, void (__cdecl *exitfunc)(int));$/;"	p	signature:(int *argcp, char **argv, void (__cdecl *exitfunc)(int))
+format	.\tags	/^!_TAG_FILE_FORMAT	2	\/extended format; --format=1 will not append ;" to lines\/$/;"	v
+glutAddMenuEntry	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutAddMenuEntry( const char* label, int value );$/;"	p	signature:( const char* label, int value )
+glutAddMenuEntry	.\tags	/^glutAddMenuEntry	.\\GL\\freeglut_std.h	\/^FGAPI void    FGAPIENTRY glutAddMenuEntry( const char* label, int value );$\/;"	p	signature:( const char* label, int value )$/;"	p	file:	signature:( const char* label, int value )
+glutAddSubMenu	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutAddSubMenu( const char* label, int subMenu );$/;"	p	signature:( const char* label, int subMenu )
+glutAttachMenu	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutAttachMenu( int button );$/;"	p	signature:( int button )
+glutBitmapCharacter	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutBitmapCharacter( void* font, int character );$/;"	p	signature:( void* font, int character )
+glutBitmapCharacter	.\tags	/^glutBitmapCharacter	.\\GL\\freeglut_std.h	\/^FGAPI void    FGAPIENTRY glutBitmapCharacter( void* font, int character );$\/;"	p	signature:( void* font, int character )$/;"	p	file:	signature:( void* font, int character )
+glutBitmapHeight	.\GL\freeglut_ext.h	/^FGAPI int     FGAPIENTRY glutBitmapHeight( void* font );$/;"	p	signature:( void* font )
+glutBitmapLength	.\GL\freeglut_std.h	/^FGAPI int     FGAPIENTRY glutBitmapLength( void* font, const unsigned char* string );$/;"	p	signature:( void* font, const unsigned char* string )
+glutBitmapLength	.\tags	/^glutBitmapLength	.\\GL\\freeglut_std.h	\/^FGAPI int     FGAPIENTRY glutBitmapLength( void* font, const unsigned char* string );$\/;"	p	signature:( void* font, const unsigned char* string )$/;"	p	file:	signature:( void* font, const unsigned char* string )
+glutBitmapString	.\GL\freeglut_ext.h	/^FGAPI void    FGAPIENTRY glutBitmapString( void* font, const unsigned char *string );$/;"	p	signature:( void* font, const unsigned char *string )
+glutBitmapWidth	.\GL\freeglut_std.h	/^FGAPI int     FGAPIENTRY glutBitmapWidth( void* font, int character );$/;"	p	signature:( void* font, int character )
+glutButtonBoxFunc	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutButtonBoxFunc( void (* callback)( int, int ) );$/;"	p	signature:( void (* callback)( int, int ) )
+glutButtonBoxFunc	.\tags	/^glutButtonBoxFunc	.\\GL\\freeglut_std.h	\/^FGAPI void    FGAPIENTRY glutButtonBoxFunc( void (* callback)( int, int ) );$\/;"	p	signature:( void (* callback)( int, int ) )$/;"	p	file:	signature:( void (* callback)( int, int ) )
+glutChangeToMenuEntry	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutChangeToMenuEntry( int item, const char* label, int value );$/;"	p	signature:( int item, const char* label, int value )
+glutChangeToMenuEntry	.\tags	/^glutChangeToMenuEntry	.\\GL\\freeglut_std.h	\/^FGAPI void    FGAPIENTRY glutChangeToMenuEntry( int item, const char* label, int value );$\/;"	p	signature:( int item, const char* label, int value )$/;"	p	file:	signature:( int item, const char* label, int value )
+glutChangeToSubMenu	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutChangeToSubMenu( int item, const char* label, int value );$/;"	p	signature:( int item, const char* label, int value )
+glutCloseFunc	.\GL\freeglut_ext.h	/^FGAPI void    FGAPIENTRY glutCloseFunc( void (* callback)( void ) );$/;"	p	signature:( void (* callback)( void ) )
+glutCloseFunc	.\tags	/^glutCloseFunc	.\\GL\\freeglut_ext.h	\/^FGAPI void    FGAPIENTRY glutCloseFunc( void (* callback)( void ) );$\/;"	p	signature:( void (* callback)( void ) )$/;"	p	file:	signature:( void (* callback)( void ) )
+glutCopyColormap	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutCopyColormap( int window );$/;"	p	signature:( int window )
+glutCreateMenu	.\GL\freeglut_std.h	/^FGAPI int     FGAPIENTRY glutCreateMenu( void (* callback)( int menu ) );$/;"	p	signature:( void (* callback)( int menu ) )
+glutCreateMenu	.\GL\freeglut_std.h	617;"	d
+glutCreateMenu	.\tags	/^glutCreateMenu	.\\GL\\freeglut_std.h	\/^FGAPI int     FGAPIENTRY glutCreateMenu( void (* callback)( int menu ) );$\/;"	p	signature:( void (* callback)( int menu ) )$/;"	p	file:	signature:( void (* callback)( int menu ) )
+glutCreateMenu_ATEXIT_HACK	.\GL\freeglut_std.h	/^static int FGAPIENTRY FGUNUSED glutCreateMenu_ATEXIT_HACK(void (* func)(int)) { return __glutCreateMenuWithExit(func, exit); }$/;"	f	signature:(void (* func)(int))
+glutCreateMenu_ATEXIT_HACK	.\tags	/^glutCreateMenu_ATEXIT_HACK	.\\GL\\freeglut_std.h	\/^static int FGAPIENTRY FGUNUSED glutCreateMenu_ATEXIT_HACK(void (* func)(int)) { return __glutCreateMenuWithExit(func, exit); }$\/;"	f	signature:(void (* func)(int))$/;"	f	file:	signature:(void (* func)(int))
+glutCreateSubWindow	.\GL\freeglut_std.h	/^FGAPI int     FGAPIENTRY glutCreateSubWindow( int window, int x, int y, int width, int height );$/;"	p	signature:( int window, int x, int y, int width, int height )
+glutCreateSubWindow	.\tags	/^glutCreateSubWindow	.\\GL\\freeglut_std.h	\/^FGAPI int     FGAPIENTRY glutCreateSubWindow( int window, int x, int y, int width, int height );$\/;"	p	signature:( int window, int x, int y, int width, int height )$/;"	p	file:	signature:( int window, int x, int y, int width, int height )
+glutCreateWindow	.\GL\freeglut_std.h	/^FGAPI int     FGAPIENTRY glutCreateWindow( const char* title );$/;"	p	signature:( const char* title )
+glutCreateWindow	.\GL\freeglut_std.h	615;"	d
+glutCreateWindow_ATEXIT_HACK	.\GL\freeglut_std.h	/^static int FGAPIENTRY FGUNUSED glutCreateWindow_ATEXIT_HACK(const char *title) { return __glutCreateWindowWithExit(title, exit); }$/;"	f	signature:(const char *title)
+glutCreateWindow_ATEXIT_HACK	.\tags	/^glutCreateWindow_ATEXIT_HACK	.\\GL\\freeglut_std.h	\/^static int FGAPIENTRY FGUNUSED glutCreateWindow_ATEXIT_HACK(const char *title) { return __glutCreateWindowWithExit(title, exit); }$\/;"	f	signature:(const char *title)$/;"	f	file:	signature:(const char *title)
+glutDestroyMenu	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutDestroyMenu( int menu );$/;"	p	signature:( int menu )
+glutDestroyWindow	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutDestroyWindow( int window );$/;"	p	signature:( int window )
+glutDetachMenu	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutDetachMenu( int button );$/;"	p	signature:( int button )
+glutDetachMenu	.\tags	/^glutDetachMenu	.\\GL\\freeglut_std.h	\/^FGAPI void    FGAPIENTRY glutDetachMenu( int button );$\/;"	p	signature:( int button )$/;"	p	file:	signature:( int button )
+glutDeviceGet	.\GL\freeglut_std.h	/^FGAPI int     FGAPIENTRY glutDeviceGet( GLenum query );$/;"	p	signature:( GLenum query )
+glutDialsFunc	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutDialsFunc( void (* callback)( int, int ) );$/;"	p	signature:( void (* callback)( int, int ) )
+glutDisplayFunc	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutDisplayFunc( void (* callback)( void ) );$/;"	p	signature:( void (* callback)( void ) )
+glutEnterGameMode	.\GL\freeglut_std.h	/^FGAPI int     FGAPIENTRY glutEnterGameMode( void );$/;"	p	signature:( void )
+glutEntryFunc	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutEntryFunc( void (* callback)( int ) );$/;"	p	signature:( void (* callback)( int ) )
+glutEstablishOverlay	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutEstablishOverlay( void );$/;"	p	signature:( void )
+glutExit	.\GL\freeglut_ext.h	/^FGAPI void    FGAPIENTRY glutExit         ( void );$/;"	p	signature:( void )
+glutExit	.\tags	/^glutExit	.\\GL\\freeglut_ext.h	\/^FGAPI void    FGAPIENTRY glutExit         ( void );$\/;"	p	signature:( void )$/;"	p	file:	signature:( void )
+glutExtensionSupported	.\GL\freeglut_std.h	/^FGAPI int     FGAPIENTRY glutExtensionSupported( const char* extension );$/;"	p	signature:( const char* extension )
+glutForceJoystickFunc	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutForceJoystickFunc( void );$/;"	p	signature:( void )
+glutForceJoystickFunc	.\tags	/^glutForceJoystickFunc	.\\GL\\freeglut_std.h	\/^FGAPI void    FGAPIENTRY glutForceJoystickFunc( void );$\/;"	p	signature:( void )$/;"	p	file:	signature:( void )
+glutFullScreen	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutFullScreen( void );$/;"	p	signature:( void )
+glutFullScreenToggle	.\GL\freeglut_ext.h	/^FGAPI void    FGAPIENTRY glutFullScreenToggle( void );$/;"	p	signature:( void )
+glutGameModeGet	.\GL\freeglut_std.h	/^FGAPI int     FGAPIENTRY glutGameModeGet( GLenum query );$/;"	p	signature:( GLenum query )
+glutGameModeString	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutGameModeString( const char* string );$/;"	p	signature:( const char* string )
+glutGameModeString	.\tags	/^glutGameModeString	.\\GL\\freeglut_std.h	\/^FGAPI void    FGAPIENTRY glutGameModeString( const char* string );$\/;"	p	signature:( const char* string )$/;"	p	file:	signature:( const char* string )
+glutGet	.\GL\freeglut_std.h	/^FGAPI int     FGAPIENTRY glutGet( GLenum query );$/;"	p	signature:( GLenum query )
+glutGet	.\tags	/^glutGet	.\\GL\\freeglut_std.h	\/^FGAPI int     FGAPIENTRY glutGet( GLenum query );$\/;"	p	signature:( GLenum query )$/;"	p	file:	signature:( GLenum query )
+glutGetColor	.\GL\freeglut_std.h	/^FGAPI GLfloat FGAPIENTRY glutGetColor( int color, int component );$/;"	p	signature:( int color, int component )
+glutGetColor	.\tags	/^glutGetColor	.\\GL\\freeglut_std.h	\/^FGAPI GLfloat FGAPIENTRY glutGetColor( int color, int component );$\/;"	p	signature:( int color, int component )$/;"	p	file:	signature:( int color, int component )
+glutGetMenu	.\GL\freeglut_std.h	/^FGAPI int     FGAPIENTRY glutGetMenu( void );$/;"	p	signature:( void )
+glutGetMenu	.\tags	/^glutGetMenu	.\\GL\\freeglut_std.h	\/^FGAPI int     FGAPIENTRY glutGetMenu( void );$\/;"	p	signature:( void )$/;"	p	file:	signature:( void )
+glutGetMenuData	.\GL\freeglut_ext.h	/^FGAPI void*   FGAPIENTRY glutGetMenuData( void );$/;"	p	signature:( void )
+glutGetModeValues	.\GL\freeglut_ext.h	/^FGAPI int *   FGAPIENTRY glutGetModeValues(GLenum mode, int * size);$/;"	p	signature:(GLenum mode, int * size)
+glutGetModeValues	.\tags	/^glutGetModeValues	.\\GL\\freeglut_ext.h	\/^FGAPI int *   FGAPIENTRY glutGetModeValues(GLenum mode, int * size);$\/;"	p	signature:(GLenum mode, int * size)$/;"	p	file:	signature:(GLenum mode, int * size)
+glutGetModifiers	.\GL\freeglut_std.h	/^FGAPI int     FGAPIENTRY glutGetModifiers( void );$/;"	p	signature:( void )
+glutGetModifiers	.\tags	/^glutGetModifiers	.\\GL\\freeglut_std.h	\/^FGAPI int     FGAPIENTRY glutGetModifiers( void );$\/;"	p	signature:( void )$/;"	p	file:	signature:( void )
+glutGetProcAddress	.\GL\freeglut_ext.h	/^FGAPI GLUTproc FGAPIENTRY glutGetProcAddress( const char *procName );$/;"	p	signature:( const char *procName )
+glutGetProcAddress	.\tags	/^glutGetProcAddress	.\\GL\\freeglut_ext.h	\/^FGAPI GLUTproc FGAPIENTRY glutGetProcAddress( const char *procName );$\/;"	p	signature:( const char *procName )$/;"	p	file:	signature:( const char *procName )
+glutGetWindow	.\GL\freeglut_std.h	/^FGAPI int     FGAPIENTRY glutGetWindow( void );$/;"	p	signature:( void )
+glutGetWindowData	.\GL\freeglut_ext.h	/^FGAPI void*   FGAPIENTRY glutGetWindowData( void );$/;"	p	signature:( void )
+glutHideOverlay	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutHideOverlay( void );$/;"	p	signature:( void )
+glutHideWindow	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutHideWindow( void );$/;"	p	signature:( void )
+glutIconifyWindow	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutIconifyWindow( void );$/;"	p	signature:( void )
+glutIconifyWindow	.\tags	/^glutIconifyWindow	.\\GL\\freeglut_std.h	\/^FGAPI void    FGAPIENTRY glutIconifyWindow( void );$\/;"	p	signature:( void )$/;"	p	file:	signature:( void )
+glutIdleFunc	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutIdleFunc( void (* callback)( void ) );$/;"	p	signature:( void (* callback)( void ) )
+glutIdleFunc	.\tags	/^glutIdleFunc	.\\GL\\freeglut_std.h	\/^FGAPI void    FGAPIENTRY glutIdleFunc( void (* callback)( void ) );$\/;"	p	signature:( void (* callback)( void ) )$/;"	p	file:	signature:( void (* callback)( void ) )
+glutIgnoreKeyRepeat	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutIgnoreKeyRepeat( int ignore );$/;"	p	signature:( int ignore )
+glutIgnoreKeyRepeat	.\tags	/^glutIgnoreKeyRepeat	.\\GL\\freeglut_std.h	\/^FGAPI void    FGAPIENTRY glutIgnoreKeyRepeat( int ignore );$\/;"	p	signature:( int ignore )$/;"	p	file:	signature:( int ignore )
+glutInit	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutInit( int* pargc, char** argv );$/;"	p	signature:( int* pargc, char** argv )
+glutInit	.\GL\freeglut_std.h	613;"	d
+glutInitContextFlags	.\GL\freeglut_ext.h	/^FGAPI void    FGAPIENTRY glutInitContextFlags( int flags );$/;"	p	signature:( int flags )
+glutInitContextFlags	.\tags	/^glutInitContextFlags	.\\GL\\freeglut_ext.h	\/^FGAPI void    FGAPIENTRY glutInitContextFlags( int flags );$\/;"	p	signature:( int flags )$/;"	p	file:	signature:( int flags )
+glutInitContextProfile	.\GL\freeglut_ext.h	/^FGAPI void    FGAPIENTRY glutInitContextProfile( int profile );$/;"	p	signature:( int profile )
+glutInitContextVersion	.\GL\freeglut_ext.h	/^FGAPI void    FGAPIENTRY glutInitContextVersion( int majorVersion, int minorVersion );$/;"	p	signature:( int majorVersion, int minorVersion )
+glutInitDisplayMode	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutInitDisplayMode( unsigned int displayMode );$/;"	p	signature:( unsigned int displayMode )
+glutInitDisplayMode	.\tags	/^glutInitDisplayMode	.\\GL\\freeglut_std.h	\/^FGAPI void    FGAPIENTRY glutInitDisplayMode( unsigned int displayMode );$\/;"	p	signature:( unsigned int displayMode )$/;"	p	file:	signature:( unsigned int displayMode )
+glutInitDisplayString	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutInitDisplayString( const char* displayMode );$/;"	p	signature:( const char* displayMode )
+glutInitErrorFunc	.\GL\freeglut_ext.h	/^FGAPI void    FGAPIENTRY glutInitErrorFunc( void (* vError)( const char *fmt, va_list ap ) );$/;"	p	signature:( void (* vError)( const char *fmt, va_list ap ) )
+glutInitErrorFunc	.\tags	/^glutInitErrorFunc	.\\GL\\freeglut_ext.h	\/^FGAPI void    FGAPIENTRY glutInitErrorFunc( void (* vError)( const char *fmt, va_list ap ) );$\/;"	p	signature:( void (* vError)( const char *fmt, va_list ap ) )$/;"	p	file:	signature:( void (* vError)( const char *fmt, va_list ap ) )
+glutInitWarningFunc	.\GL\freeglut_ext.h	/^FGAPI void    FGAPIENTRY glutInitWarningFunc( void (* vWarning)( const char *fmt, va_list ap ) );$/;"	p	signature:( void (* vWarning)( const char *fmt, va_list ap ) )
+glutInitWindowPosition	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutInitWindowPosition( int x, int y );$/;"	p	signature:( int x, int y )
+glutInitWindowPosition	.\tags	/^glutInitWindowPosition	.\\GL\\freeglut_std.h	\/^FGAPI void    FGAPIENTRY glutInitWindowPosition( int x, int y );$\/;"	p	signature:( int x, int y )$/;"	p	file:	signature:( int x, int y )
+glutInitWindowSize	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutInitWindowSize( int width, int height );$/;"	p	signature:( int width, int height )
+glutInit_ATEXIT_HACK	.\GL\freeglut_std.h	/^static void FGAPIENTRY FGUNUSED glutInit_ATEXIT_HACK(int *argcp, char **argv) { __glutInitWithExit(argcp, argv, exit); }$/;"	f	signature:(int *argcp, char **argv)
+glutInit_ATEXIT_HACK	.\tags	/^glutInit_ATEXIT_HACK	.\\GL\\freeglut_std.h	\/^static void FGAPIENTRY FGUNUSED glutInit_ATEXIT_HACK(int *argcp, char **argv) { __glutInitWithExit(argcp, argv, exit); }$\/;"	f	signature:(int *argcp, char **argv)$/;"	f	file:	signature:(int *argcp, char **argv)
+glutJoystickFunc	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutJoystickFunc( void (* callback)( unsigned int, int, int, int ), int pollInterval );$/;"	p	signature:( void (* callback)( unsigned int, int, int, int ), int pollInterval )
+glutJoystickFunc	.\tags	/^glutJoystickFunc	.\\GL\\freeglut_std.h	\/^FGAPI void    FGAPIENTRY glutJoystickFunc( void (* callback)( unsigned int, int, int, int ), int pollInterval );$\/;"	p	signature:( void (* callback)( unsigned int, int, int, int ), int pollInterval )$/;"	p	file:	signature:( void (* callback)( unsigned int, int, int, int ), int pollInterval )
+glutJoystickGetCenter	.\GL\freeglut_ext.h	/^void    glutJoystickGetCenter( int ident, float *axes );$/;"	p	signature:( int ident, float *axes )
+glutJoystickGetCenter	.\tags	/^glutJoystickGetCenter	.\\GL\\freeglut_ext.h	\/^void    glutJoystickGetCenter( int ident, float *axes );$\/;"	p	signature:( int ident, float *axes )$/;"	p	file:	signature:( int ident, float *axes )
+glutJoystickGetDeadBand	.\GL\freeglut_ext.h	/^float   glutJoystickGetDeadBand( int ident, int axis );$/;"	p	signature:( int ident, int axis )
+glutJoystickGetMaxRange	.\GL\freeglut_ext.h	/^void    glutJoystickGetMaxRange( int ident, float *axes );$/;"	p	signature:( int ident, float *axes )
+glutJoystickGetMinRange	.\GL\freeglut_ext.h	/^void    glutJoystickGetMinRange( int ident, float *axes );$/;"	p	signature:( int ident, float *axes )
+glutJoystickGetMinRange	.\tags	/^glutJoystickGetMinRange	.\\GL\\freeglut_ext.h	\/^void    glutJoystickGetMinRange( int ident, float *axes );$\/;"	p	signature:( int ident, float *axes )$/;"	p	file:	signature:( int ident, float *axes )
+glutJoystickGetNumAxes	.\GL\freeglut_ext.h	/^int     glutJoystickGetNumAxes( int ident );$/;"	p	signature:( int ident )
+glutJoystickGetNumAxes	.\tags	/^glutJoystickGetNumAxes	.\\GL\\freeglut_ext.h	\/^int     glutJoystickGetNumAxes( int ident );$\/;"	p	signature:( int ident )$/;"	p	file:	signature:( int ident )
+glutJoystickGetNumButtons	.\GL\freeglut_ext.h	/^int     glutJoystickGetNumButtons( int ident );$/;"	p	signature:( int ident )
+glutJoystickGetSaturation	.\GL\freeglut_ext.h	/^float   glutJoystickGetSaturation( int ident, int axis );$/;"	p	signature:( int ident, int axis )
+glutJoystickNotWorking	.\GL\freeglut_ext.h	/^int     glutJoystickNotWorking( int ident );$/;"	p	signature:( int ident )
+glutJoystickNotWorking	.\tags	/^glutJoystickNotWorking	.\\GL\\freeglut_ext.h	\/^int     glutJoystickNotWorking( int ident );$\/;"	p	signature:( int ident )$/;"	p	file:	signature:( int ident )
+glutJoystickSetCenter	.\GL\freeglut_ext.h	/^void    glutJoystickSetCenter( int ident, float *axes );$/;"	p	signature:( int ident, float *axes )
+glutJoystickSetDeadBand	.\GL\freeglut_ext.h	/^void    glutJoystickSetDeadBand( int ident, int axis, float db );$/;"	p	signature:( int ident, int axis, float db )
+glutJoystickSetDeadBand	.\tags	/^glutJoystickSetDeadBand	.\\GL\\freeglut_ext.h	\/^void    glutJoystickSetDeadBand( int ident, int axis, float db );$\/;"	p	signature:( int ident, int axis, float db )$/;"	p	file:	signature:( int ident, int axis, float db )
+glutJoystickSetMaxRange	.\GL\freeglut_ext.h	/^void    glutJoystickSetMaxRange( int ident, float *axes );$/;"	p	signature:( int ident, float *axes )
+glutJoystickSetMaxRange	.\tags	/^glutJoystickSetMaxRange	.\\GL\\freeglut_ext.h	\/^void    glutJoystickSetMaxRange( int ident, float *axes );$\/;"	p	signature:( int ident, float *axes )$/;"	p	file:	signature:( int ident, float *axes )
+glutJoystickSetMinRange	.\GL\freeglut_ext.h	/^void    glutJoystickSetMinRange( int ident, float *axes );$/;"	p	signature:( int ident, float *axes )
+glutJoystickSetSaturation	.\GL\freeglut_ext.h	/^void    glutJoystickSetSaturation( int ident, int axis, float st );$/;"	p	signature:( int ident, int axis, float st )
+glutJoystickSetSaturation	.\tags	/^glutJoystickSetSaturation	.\\GL\\freeglut_ext.h	\/^void    glutJoystickSetSaturation( int ident, int axis, float st );$\/;"	p	signature:( int ident, int axis, float st )$/;"	p	file:	signature:( int ident, int axis, float st )
+glutKeyboardFunc	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutKeyboardFunc( void (* callback)( unsigned char, int, int ) );$/;"	p	signature:( void (* callback)( unsigned char, int, int ) )
+glutKeyboardUpFunc	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutKeyboardUpFunc( void (* callback)( unsigned char, int, int ) );$/;"	p	signature:( void (* callback)( unsigned char, int, int ) )
+glutKeyboardUpFunc	.\tags	/^glutKeyboardUpFunc	.\\GL\\freeglut_std.h	\/^FGAPI void    FGAPIENTRY glutKeyboardUpFunc( void (* callback)( unsigned char, int, int ) );$\/;"	p	signature:( void (* callback)( unsigned char, int, int ) )$/;"	p	file:	signature:( void (* callback)( unsigned char, int, int ) )
+glutLayerGet	.\GL\freeglut_std.h	/^FGAPI int     FGAPIENTRY glutLayerGet( GLenum query );$/;"	p	signature:( GLenum query )
+glutLeaveFullScreen	.\GL\freeglut_ext.h	/^FGAPI void    FGAPIENTRY glutLeaveFullScreen( void );$/;"	p	signature:( void )
+glutLeaveFullScreen	.\tags	/^glutLeaveFullScreen	.\\GL\\freeglut_ext.h	\/^FGAPI void    FGAPIENTRY glutLeaveFullScreen( void );$\/;"	p	signature:( void )$/;"	p	file:	signature:( void )
+glutLeaveGameMode	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutLeaveGameMode( void );$/;"	p	signature:( void )
+glutLeaveGameMode	.\tags	/^glutLeaveGameMode	.\\GL\\freeglut_std.h	\/^FGAPI void    FGAPIENTRY glutLeaveGameMode( void );$\/;"	p	signature:( void )$/;"	p	file:	signature:( void )
+glutLeaveMainLoop	.\GL\freeglut_ext.h	/^FGAPI void    FGAPIENTRY glutLeaveMainLoop( void );$/;"	p	signature:( void )
+glutMainLoop	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutMainLoop( void );$/;"	p	signature:( void )
+glutMainLoop	.\tags	/^glutMainLoop	.\\GL\\freeglut_std.h	\/^FGAPI void    FGAPIENTRY glutMainLoop( void );$\/;"	p	signature:( void )$/;"	p	file:	signature:( void )
+glutMainLoopEvent	.\GL\freeglut_ext.h	/^FGAPI void    FGAPIENTRY glutMainLoopEvent( void );$/;"	p	signature:( void )
+glutMainLoopEvent	.\tags	/^glutMainLoopEvent	.\\GL\\freeglut_ext.h	\/^FGAPI void    FGAPIENTRY glutMainLoopEvent( void );$\/;"	p	signature:( void )$/;"	p	file:	signature:( void )
+glutMenuDestroyFunc	.\GL\freeglut_ext.h	/^FGAPI void    FGAPIENTRY glutMenuDestroyFunc( void (* callback)( void ) );$/;"	p	signature:( void (* callback)( void ) )
+glutMenuDestroyFunc	.\tags	/^glutMenuDestroyFunc	.\\GL\\freeglut_ext.h	\/^FGAPI void    FGAPIENTRY glutMenuDestroyFunc( void (* callback)( void ) );$\/;"	p	signature:( void (* callback)( void ) )$/;"	p	file:	signature:( void (* callback)( void ) )
+glutMenuStateFunc	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutMenuStateFunc( void (* callback)( int ) );$/;"	p	signature:( void (* callback)( int ) )
+glutMenuStatusFunc	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutMenuStatusFunc( void (* callback)( int, int, int ) );$/;"	p	signature:( void (* callback)( int, int, int ) )
+glutMenuStatusFunc	.\tags	/^glutMenuStatusFunc	.\\GL\\freeglut_std.h	\/^FGAPI void    FGAPIENTRY glutMenuStatusFunc( void (* callback)( int, int, int ) );$\/;"	p	signature:( void (* callback)( int, int, int ) )$/;"	p	file:	signature:( void (* callback)( int, int, int ) )
+glutMotionFunc	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutMotionFunc( void (* callback)( int, int ) );$/;"	p	signature:( void (* callback)( int, int ) )
+glutMouseFunc	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutMouseFunc( void (* callback)( int, int, int, int ) );$/;"	p	signature:( void (* callback)( int, int, int, int ) )
+glutMouseFunc	.\tags	/^glutMouseFunc	.\\GL\\freeglut_std.h	\/^FGAPI void    FGAPIENTRY glutMouseFunc( void (* callback)( int, int, int, int ) );$\/;"	p	signature:( void (* callback)( int, int, int, int ) )$/;"	p	file:	signature:( void (* callback)( int, int, int, int ) )
+glutMouseWheelFunc	.\GL\freeglut_ext.h	/^FGAPI void    FGAPIENTRY glutMouseWheelFunc( void (* callback)( int, int, int, int ) );$/;"	p	signature:( void (* callback)( int, int, int, int ) )
+glutMultiButtonFunc	.\GL\freeglut_ext.h	/^FGAPI void FGAPIENTRY glutMultiButtonFunc( void (* callback)( int, int, int, int, int ) );$/;"	p	signature:( void (* callback)( int, int, int, int, int ) )
+glutMultiEntryFunc	.\GL\freeglut_ext.h	/^FGAPI void FGAPIENTRY glutMultiEntryFunc( void (* callback)( int, int ) );$/;"	p	signature:( void (* callback)( int, int ) )
+glutMultiEntryFunc	.\tags	/^glutMultiEntryFunc	.\\GL\\freeglut_ext.h	\/^FGAPI void FGAPIENTRY glutMultiEntryFunc( void (* callback)( int, int ) );$\/;"	p	signature:( void (* callback)( int, int ) )$/;"	p	file:	signature:( void (* callback)( int, int ) )
+glutMultiMotionFunc	.\GL\freeglut_ext.h	/^FGAPI void FGAPIENTRY glutMultiMotionFunc( void (* callback)( int, int, int ) );$/;"	p	signature:( void (* callback)( int, int, int ) )
+glutMultiMotionFunc	.\tags	/^glutMultiMotionFunc	.\\GL\\freeglut_ext.h	\/^FGAPI void FGAPIENTRY glutMultiMotionFunc( void (* callback)( int, int, int ) );$\/;"	p	signature:( void (* callback)( int, int, int ) )$/;"	p	file:	signature:( void (* callback)( int, int, int ) )
+glutMultiPassiveFunc	.\GL\freeglut_ext.h	/^FGAPI void FGAPIENTRY glutMultiPassiveFunc( void (* callback)( int, int, int ) );$/;"	p	signature:( void (* callback)( int, int, int ) )
+glutOverlayDisplayFunc	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutOverlayDisplayFunc( void (* callback)( void ) );$/;"	p	signature:( void (* callback)( void ) )
+glutPassiveMotionFunc	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutPassiveMotionFunc( void (* callback)( int, int ) );$/;"	p	signature:( void (* callback)( int, int ) )
+glutPassiveMotionFunc	.\tags	/^glutPassiveMotionFunc	.\\GL\\freeglut_std.h	\/^FGAPI void    FGAPIENTRY glutPassiveMotionFunc( void (* callback)( int, int ) );$\/;"	p	signature:( void (* callback)( int, int ) )$/;"	p	file:	signature:( void (* callback)( int, int ) )
+glutPopWindow	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutPopWindow( void );$/;"	p	signature:( void )
+glutPopWindow	.\tags	/^glutPopWindow	.\\GL\\freeglut_std.h	\/^FGAPI void    FGAPIENTRY glutPopWindow( void );$\/;"	p	signature:( void )$/;"	p	file:	signature:( void )
+glutPositionWindow	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutPositionWindow( int x, int y );$/;"	p	signature:( int x, int y )
+glutPostOverlayRedisplay	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutPostOverlayRedisplay( void );$/;"	p	signature:( void )
+glutPostOverlayRedisplay	.\tags	/^glutPostOverlayRedisplay	.\\GL\\freeglut_std.h	\/^FGAPI void    FGAPIENTRY glutPostOverlayRedisplay( void );$\/;"	p	signature:( void )$/;"	p	file:	signature:( void )
+glutPostRedisplay	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutPostRedisplay( void );$/;"	p	signature:( void )
+glutPostWindowOverlayRedisplay	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutPostWindowOverlayRedisplay( int window );$/;"	p	signature:( int window )
+glutPostWindowRedisplay	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutPostWindowRedisplay( int window );$/;"	p	signature:( int window )
+glutPostWindowRedisplay	.\tags	/^glutPostWindowRedisplay	.\\GL\\freeglut_std.h	\/^FGAPI void    FGAPIENTRY glutPostWindowRedisplay( int window );$\/;"	p	signature:( int window )$/;"	p	file:	signature:( int window )
+glutPushWindow	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutPushWindow( void );$/;"	p	signature:( void )
+glutRemoveMenuItem	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutRemoveMenuItem( int item );$/;"	p	signature:( int item )
+glutRemoveMenuItem	.\tags	/^glutRemoveMenuItem	.\\GL\\freeglut_std.h	\/^FGAPI void    FGAPIENTRY glutRemoveMenuItem( int item );$\/;"	p	signature:( int item )$/;"	p	file:	signature:( int item )
+glutRemoveOverlay	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutRemoveOverlay( void );$/;"	p	signature:( void )
+glutRemoveOverlay	.\tags	/^glutRemoveOverlay	.\\GL\\freeglut_std.h	\/^FGAPI void    FGAPIENTRY glutRemoveOverlay( void );$\/;"	p	signature:( void )$/;"	p	file:	signature:( void )
+glutReportErrors	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutReportErrors( void );$/;"	p	signature:( void )
+glutReportErrors	.\tags	/^glutReportErrors	.\\GL\\freeglut_std.h	\/^FGAPI void    FGAPIENTRY glutReportErrors( void );$\/;"	p	signature:( void )$/;"	p	file:	signature:( void )
+glutReshapeFunc	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutReshapeFunc( void (* callback)( int, int ) );$/;"	p	signature:( void (* callback)( int, int ) )
+glutReshapeWindow	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutReshapeWindow( int width, int height );$/;"	p	signature:( int width, int height )
+glutReshapeWindow	.\tags	/^glutReshapeWindow	.\\GL\\freeglut_std.h	\/^FGAPI void    FGAPIENTRY glutReshapeWindow( int width, int height );$\/;"	p	signature:( int width, int height )$/;"	p	file:	signature:( int width, int height )
+glutSetColor	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutSetColor( int color, GLfloat red, GLfloat green, GLfloat blue );$/;"	p	signature:( int color, GLfloat red, GLfloat green, GLfloat blue )
+glutSetCursor	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutSetCursor( int cursor );$/;"	p	signature:( int cursor )
+glutSetCursor	.\tags	/^glutSetCursor	.\\GL\\freeglut_std.h	\/^FGAPI void    FGAPIENTRY glutSetCursor( int cursor );$\/;"	p	signature:( int cursor )$/;"	p	file:	signature:( int cursor )
+glutSetIconTitle	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutSetIconTitle( const char* title );$/;"	p	signature:( const char* title )
+glutSetKeyRepeat	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutSetKeyRepeat( int repeatMode );$/;"	p	signature:( int repeatMode )
+glutSetMenu	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutSetMenu( int menu );$/;"	p	signature:( int menu )
+glutSetMenuData	.\GL\freeglut_ext.h	/^FGAPI void    FGAPIENTRY glutSetMenuData(void* data);$/;"	p	signature:(void* data)
+glutSetMenuData	.\tags	/^glutSetMenuData	.\\GL\\freeglut_ext.h	\/^FGAPI void    FGAPIENTRY glutSetMenuData(void* data);$\/;"	p	signature:(void* data)$/;"	p	file:	signature:(void* data)
+glutSetOption	.\GL\freeglut_ext.h	/^FGAPI void    FGAPIENTRY glutSetOption ( GLenum option_flag, int value );$/;"	p	signature:( GLenum option_flag, int value )
+glutSetWindow	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutSetWindow( int window );$/;"	p	signature:( int window )
+glutSetWindow	.\tags	/^glutSetWindow	.\\GL\\freeglut_std.h	\/^FGAPI void    FGAPIENTRY glutSetWindow( int window );$\/;"	p	signature:( int window )$/;"	p	file:	signature:( int window )
+glutSetWindowData	.\GL\freeglut_ext.h	/^FGAPI void    FGAPIENTRY glutSetWindowData(void* data);$/;"	p	signature:(void* data)
+glutSetWindowData	.\tags	/^glutSetWindowData	.\\GL\\freeglut_ext.h	\/^FGAPI void    FGAPIENTRY glutSetWindowData(void* data);$\/;"	p	signature:(void* data)$/;"	p	file:	signature:(void* data)
+glutSetWindowTitle	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutSetWindowTitle( const char* title );$/;"	p	signature:( const char* title )
+glutSetWindowTitle	.\tags	/^glutSetWindowTitle	.\\GL\\freeglut_std.h	\/^FGAPI void    FGAPIENTRY glutSetWindowTitle( const char* title );$\/;"	p	signature:( const char* title )$/;"	p	file:	signature:( const char* title )
+glutSetupVideoResizing	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutSetupVideoResizing( void );$/;"	p	signature:( void )
+glutShowOverlay	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutShowOverlay( void );$/;"	p	signature:( void )
+glutShowOverlay	.\tags	/^glutShowOverlay	.\\GL\\freeglut_std.h	\/^FGAPI void    FGAPIENTRY glutShowOverlay( void );$\/;"	p	signature:( void )$/;"	p	file:	signature:( void )
+glutShowWindow	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutShowWindow( void );$/;"	p	signature:( void )
+glutShowWindow	.\tags	/^glutShowWindow	.\\GL\\freeglut_std.h	\/^FGAPI void    FGAPIENTRY glutShowWindow( void );$\/;"	p	signature:( void )$/;"	p	file:	signature:( void )
+glutSolidCone	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutSolidCone( GLdouble base, GLdouble height, GLint slices, GLint stacks );$/;"	p	signature:( GLdouble base, GLdouble height, GLint slices, GLint stacks )
+glutSolidCube	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutSolidCube( GLdouble size );$/;"	p	signature:( GLdouble size )
+glutSolidCylinder	.\GL\freeglut_ext.h	/^FGAPI void    FGAPIENTRY glutSolidCylinder( GLdouble radius, GLdouble height, GLint slices, GLint stacks);$/;"	p	signature:( GLdouble radius, GLdouble height, GLint slices, GLint stacks)
+glutSolidCylinder	.\tags	/^glutSolidCylinder	.\\GL\\freeglut_ext.h	\/^FGAPI void    FGAPIENTRY glutSolidCylinder( GLdouble radius, GLdouble height, GLint slices, GLint stacks);$\/;"	p	signature:( GLdouble radius, GLdouble height, GLint slices, GLint stacks)$/;"	p	file:	signature:( GLdouble radius, GLdouble height, GLint slices, GLint stacks)
+glutSolidDodecahedron	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutSolidDodecahedron( void );$/;"	p	signature:( void )
+glutSolidIcosahedron	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutSolidIcosahedron( void );$/;"	p	signature:( void )
+glutSolidOctahedron	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutSolidOctahedron( void );$/;"	p	signature:( void )
+glutSolidRhombicDodecahedron	.\GL\freeglut_ext.h	/^FGAPI void    FGAPIENTRY glutSolidRhombicDodecahedron( void );$/;"	p	signature:( void )
+glutSolidRhombicDodecahedron	.\tags	/^glutSolidRhombicDodecahedron	.\\GL\\freeglut_ext.h	\/^FGAPI void    FGAPIENTRY glutSolidRhombicDodecahedron( void );$\/;"	p	signature:( void )$/;"	p	file:	signature:( void )
+glutSolidSierpinskiSponge	.\GL\freeglut_ext.h	/^FGAPI void    FGAPIENTRY glutSolidSierpinskiSponge ( int num_levels, GLdouble offset[3], GLdouble scale );$/;"	p	signature:( int num_levels, GLdouble offset[3], GLdouble scale )
+glutSolidSierpinskiSponge	.\tags	/^glutSolidSierpinskiSponge	.\\GL\\freeglut_ext.h	\/^FGAPI void    FGAPIENTRY glutSolidSierpinskiSponge ( int num_levels, GLdouble offset[3], GLdouble scale );$\/;"	p	signature:( int num_levels, GLdouble offset[3], GLdouble scale )$/;"	p	file:	signature:( int num_levels, GLdouble offset[3], GLdouble scale )
+glutSolidSphere	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutSolidSphere( GLdouble radius, GLint slices, GLint stacks );$/;"	p	signature:( GLdouble radius, GLint slices, GLint stacks )
+glutSolidTeapot	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutSolidTeapot( GLdouble size );$/;"	p	signature:( GLdouble size )
+glutSolidTetrahedron	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutSolidTetrahedron( void );$/;"	p	signature:( void )
+glutSolidTorus	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutSolidTorus( GLdouble innerRadius, GLdouble outerRadius, GLint sides, GLint rings );$/;"	p	signature:( GLdouble innerRadius, GLdouble outerRadius, GLint sides, GLint rings )
+glutSpaceballButtonFunc	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutSpaceballButtonFunc( void (* callback)( int, int ) );$/;"	p	signature:( void (* callback)( int, int ) )
+glutSpaceballMotionFunc	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutSpaceballMotionFunc( void (* callback)( int, int, int ) );$/;"	p	signature:( void (* callback)( int, int, int ) )
+glutSpaceballRotateFunc	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutSpaceballRotateFunc( void (* callback)( int, int, int ) );$/;"	p	signature:( void (* callback)( int, int, int ) )
+glutSpaceballRotateFunc	.\tags	/^glutSpaceballRotateFunc	.\\GL\\freeglut_std.h	\/^FGAPI void    FGAPIENTRY glutSpaceballRotateFunc( void (* callback)( int, int, int ) );$\/;"	p	signature:( void (* callback)( int, int, int ) )$/;"	p	file:	signature:( void (* callback)( int, int, int ) )
+glutSpecialFunc	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutSpecialFunc( void (* callback)( int, int, int ) );$/;"	p	signature:( void (* callback)( int, int, int ) )
+glutSpecialFunc	.\tags	/^glutSpecialFunc	.\\GL\\freeglut_std.h	\/^FGAPI void    FGAPIENTRY glutSpecialFunc( void (* callback)( int, int, int ) );$\/;"	p	signature:( void (* callback)( int, int, int ) )$/;"	p	file:	signature:( void (* callback)( int, int, int ) )
+glutSpecialUpFunc	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutSpecialUpFunc( void (* callback)( int, int, int ) );$/;"	p	signature:( void (* callback)( int, int, int ) )
+glutStopVideoResizing	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutStopVideoResizing( void );$/;"	p	signature:( void )
+glutStopVideoResizing	.\tags	/^glutStopVideoResizing	.\\GL\\freeglut_std.h	\/^FGAPI void    FGAPIENTRY glutStopVideoResizing( void );$\/;"	p	signature:( void )$/;"	p	file:	signature:( void )
+glutStrokeCharacter	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutStrokeCharacter( void* font, int character );$/;"	p	signature:( void* font, int character )
+glutStrokeCharacter	.\tags	/^glutStrokeCharacter	.\\GL\\freeglut_std.h	\/^FGAPI void    FGAPIENTRY glutStrokeCharacter( void* font, int character );$\/;"	p	signature:( void* font, int character )$/;"	p	file:	signature:( void* font, int character )
+glutStrokeHeight	.\GL\freeglut_ext.h	/^FGAPI GLfloat FGAPIENTRY glutStrokeHeight( void* font );$/;"	p	signature:( void* font )
+glutStrokeHeight	.\tags	/^glutStrokeHeight	.\\GL\\freeglut_ext.h	\/^FGAPI GLfloat FGAPIENTRY glutStrokeHeight( void* font );$\/;"	p	signature:( void* font )$/;"	p	file:	signature:( void* font )
+glutStrokeLength	.\GL\freeglut_std.h	/^FGAPI int     FGAPIENTRY glutStrokeLength( void* font, const unsigned char* string );$/;"	p	signature:( void* font, const unsigned char* string )
+glutStrokeString	.\GL\freeglut_ext.h	/^FGAPI void    FGAPIENTRY glutStrokeString( void* font, const unsigned char *string );$/;"	p	signature:( void* font, const unsigned char *string )
+glutStrokeString	.\tags	/^glutStrokeString	.\\GL\\freeglut_ext.h	\/^FGAPI void    FGAPIENTRY glutStrokeString( void* font, const unsigned char *string );$\/;"	p	signature:( void* font, const unsigned char *string )$/;"	p	file:	signature:( void* font, const unsigned char *string )
+glutStrokeWidth	.\GL\freeglut_std.h	/^FGAPI int     FGAPIENTRY glutStrokeWidth( void* font, int character );$/;"	p	signature:( void* font, int character )
+glutSwapBuffers	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutSwapBuffers( void );$/;"	p	signature:( void )
+glutSwapBuffers	.\tags	/^glutSwapBuffers	.\\GL\\freeglut_std.h	\/^FGAPI void    FGAPIENTRY glutSwapBuffers( void );$\/;"	p	signature:( void )$/;"	p	file:	signature:( void )
+glutTabletButtonFunc	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutTabletButtonFunc( void (* callback)( int, int, int, int ) );$/;"	p	signature:( void (* callback)( int, int, int, int ) )
+glutTabletMotionFunc	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutTabletMotionFunc( void (* callback)( int, int ) );$/;"	p	signature:( void (* callback)( int, int ) )
+glutTabletMotionFunc	.\tags	/^glutTabletMotionFunc	.\\GL\\freeglut_std.h	\/^FGAPI void    FGAPIENTRY glutTabletMotionFunc( void (* callback)( int, int ) );$\/;"	p	signature:( void (* callback)( int, int ) )$/;"	p	file:	signature:( void (* callback)( int, int ) )
+glutTimerFunc	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutTimerFunc( unsigned int time, void (* callback)( int ), int value );$/;"	p	signature:( unsigned int time, void (* callback)( int ), int value )
+glutUseLayer	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutUseLayer( GLenum layer );$/;"	p	signature:( GLenum layer )
+glutVideoPan	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutVideoPan( int x, int y, int width, int height );$/;"	p	signature:( int x, int y, int width, int height )
+glutVideoPan	.\tags	/^glutVideoPan	.\\GL\\freeglut_std.h	\/^FGAPI void    FGAPIENTRY glutVideoPan( int x, int y, int width, int height );$\/;"	p	signature:( int x, int y, int width, int height )$/;"	p	file:	signature:( int x, int y, int width, int height )
+glutVideoResize	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutVideoResize( int x, int y, int width, int height );$/;"	p	signature:( int x, int y, int width, int height )
+glutVideoResizeGet	.\GL\freeglut_std.h	/^FGAPI int     FGAPIENTRY glutVideoResizeGet( GLenum query );$/;"	p	signature:( GLenum query )
+glutVideoResizeGet	.\tags	/^glutVideoResizeGet	.\\GL\\freeglut_std.h	\/^FGAPI int     FGAPIENTRY glutVideoResizeGet( GLenum query );$\/;"	p	signature:( GLenum query )$/;"	p	file:	signature:( GLenum query )
+glutVisibilityFunc	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutVisibilityFunc( void (* callback)( int ) );$/;"	p	signature:( void (* callback)( int ) )
+glutVisibilityFunc	.\tags	/^glutVisibilityFunc	.\\GL\\freeglut_std.h	\/^FGAPI void    FGAPIENTRY glutVisibilityFunc( void (* callback)( int ) );$\/;"	p	signature:( void (* callback)( int ) )$/;"	p	file:	signature:( void (* callback)( int ) )
+glutWMCloseFunc	.\GL\freeglut_ext.h	/^FGAPI void    FGAPIENTRY glutWMCloseFunc( void (* callback)( void ) );$/;"	p	signature:( void (* callback)( void ) )
+glutWarpPointer	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutWarpPointer( int x, int y );$/;"	p	signature:( int x, int y )
+glutWindowStatusFunc	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutWindowStatusFunc( void (* callback)( int ) );$/;"	p	signature:( void (* callback)( int ) )
+glutWindowStatusFunc	.\tags	/^glutWindowStatusFunc	.\\GL\\freeglut_std.h	\/^FGAPI void    FGAPIENTRY glutWindowStatusFunc( void (* callback)( int ) );$\/;"	p	signature:( void (* callback)( int ) )$/;"	p	file:	signature:( void (* callback)( int ) )
+glutWireCone	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutWireCone( GLdouble base, GLdouble height, GLint slices, GLint stacks );$/;"	p	signature:( GLdouble base, GLdouble height, GLint slices, GLint stacks )
+glutWireCone	.\tags	/^glutWireCone	.\\GL\\freeglut_std.h	\/^FGAPI void    FGAPIENTRY glutWireCone( GLdouble base, GLdouble height, GLint slices, GLint stacks );$\/;"	p	signature:( GLdouble base, GLdouble height, GLint slices, GLint stacks )$/;"	p	file:	signature:( GLdouble base, GLdouble height, GLint slices, GLint stacks )
+glutWireCube	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutWireCube( GLdouble size );$/;"	p	signature:( GLdouble size )
+glutWireCube	.\tags	/^glutWireCube	.\\GL\\freeglut_std.h	\/^FGAPI void    FGAPIENTRY glutWireCube( GLdouble size );$\/;"	p	signature:( GLdouble size )$/;"	p	file:	signature:( GLdouble size )
+glutWireCylinder	.\GL\freeglut_ext.h	/^FGAPI void    FGAPIENTRY glutWireCylinder( GLdouble radius, GLdouble height, GLint slices, GLint stacks);$/;"	p	signature:( GLdouble radius, GLdouble height, GLint slices, GLint stacks)
+glutWireDodecahedron	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutWireDodecahedron( void );$/;"	p	signature:( void )
+glutWireDodecahedron	.\tags	/^glutWireDodecahedron	.\\GL\\freeglut_std.h	\/^FGAPI void    FGAPIENTRY glutWireDodecahedron( void );$\/;"	p	signature:( void )$/;"	p	file:	signature:( void )
+glutWireIcosahedron	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutWireIcosahedron( void );$/;"	p	signature:( void )
+glutWireIcosahedron	.\tags	/^glutWireIcosahedron	.\\GL\\freeglut_std.h	\/^FGAPI void    FGAPIENTRY glutWireIcosahedron( void );$\/;"	p	signature:( void )$/;"	p	file:	signature:( void )
+glutWireOctahedron	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutWireOctahedron( void );$/;"	p	signature:( void )
+glutWireOctahedron	.\tags	/^glutWireOctahedron	.\\GL\\freeglut_std.h	\/^FGAPI void    FGAPIENTRY glutWireOctahedron( void );$\/;"	p	signature:( void )$/;"	p	file:	signature:( void )
+glutWireRhombicDodecahedron	.\GL\freeglut_ext.h	/^FGAPI void    FGAPIENTRY glutWireRhombicDodecahedron( void );$/;"	p	signature:( void )
+glutWireSierpinskiSponge	.\GL\freeglut_ext.h	/^FGAPI void    FGAPIENTRY glutWireSierpinskiSponge ( int num_levels, GLdouble offset[3], GLdouble scale );$/;"	p	signature:( int num_levels, GLdouble offset[3], GLdouble scale )
+glutWireSphere	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutWireSphere( GLdouble radius, GLint slices, GLint stacks );$/;"	p	signature:( GLdouble radius, GLint slices, GLint stacks )
+glutWireSphere	.\tags	/^glutWireSphere	.\\GL\\freeglut_std.h	\/^FGAPI void    FGAPIENTRY glutWireSphere( GLdouble radius, GLint slices, GLint stacks );$\/;"	p	signature:( GLdouble radius, GLint slices, GLint stacks )$/;"	p	file:	signature:( GLdouble radius, GLint slices, GLint stacks )
+glutWireTeapot	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutWireTeapot( GLdouble size );$/;"	p	signature:( GLdouble size )
+glutWireTeapot	.\tags	/^glutWireTeapot	.\\GL\\freeglut_std.h	\/^FGAPI void    FGAPIENTRY glutWireTeapot( GLdouble size );$\/;"	p	signature:( GLdouble size )$/;"	p	file:	signature:( GLdouble size )
+glutWireTetrahedron	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutWireTetrahedron( void );$/;"	p	signature:( void )
+glutWireTetrahedron	.\tags	/^glutWireTetrahedron	.\\GL\\freeglut_std.h	\/^FGAPI void    FGAPIENTRY glutWireTetrahedron( void );$\/;"	p	signature:( void )$/;"	p	file:	signature:( void )
+glutWireTorus	.\GL\freeglut_std.h	/^FGAPI void    FGAPIENTRY glutWireTorus( GLdouble innerRadius, GLdouble outerRadius, GLint sides, GLint rings );$/;"	p	signature:( GLdouble innerRadius, GLdouble outerRadius, GLint sides, GLint rings )
+glutWireTorus	.\tags	/^glutWireTorus	.\\GL\\freeglut_std.h	\/^FGAPI void    FGAPIENTRY glutWireTorus( GLdouble innerRadius, GLdouble outerRadius, GLint sides, GLint rings );$\/;"	p	signature:( GLdouble innerRadius, GLdouble outerRadius, GLint sides, GLint rings )$/;"	p	file:	signature:( GLdouble innerRadius, GLdouble outerRadius, GLint sides, GLint rings )
