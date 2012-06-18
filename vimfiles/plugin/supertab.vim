@@ -432,7 +432,7 @@ function! s:SuperTab(command)
     return complType
   endif
 
-  return g:SuperTabMappingForward == '<tab>' ? "\<tab>" : ''
+  return ((g:SuperTabMappingForward == '<tab>') || (g:SuperTabMappingForward == '<s-tab>')) ? "\<tab>" : ''
 endfunction " }}}
 
 " s:SuperTabHelp() {{{
