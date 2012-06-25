@@ -80,7 +80,7 @@ set nocul
 set nu
 
 " Completion window options.
-set completeopt=menuone,menu
+set completeopt=menuone,menu,longest
 
 " Hide scrollbar.
 set guioptions-=r
@@ -162,10 +162,10 @@ set tags=./tags;
 " Add pre-generate tags.
 if has('win32')
     set tags+=$VIM/.vimdata/tags/cpp
-    set tags+=$VIM/.vimdata/tags/glut
+    set tags+=$VIM/.vimdata/tags/gl
 else
     set tags+=~/.vimdata/tags/cpp
-    set tags+=~/.vimdata/tags/glut
+    set tags+=~/.vimdata/tags/gl
 endif
 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
