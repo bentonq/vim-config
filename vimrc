@@ -193,3 +193,6 @@ nnoremap <silent><s-F4> :FSSplitRight<CR>
 " supertab
 let g:SuperTabMappingForward='<s-tab>'
 let g:SuperTabMappingBackward='<tab>'
+
+" jQuery syntax
+au BufRead,BufNewFile jquery.*.js set ft=javascript syntax=jquery
