@@ -141,6 +141,7 @@ set infercase
 syntax enable
 
 " Colors
+set t_Co=256
 let g:lucius_style="dark_dim"
 colorscheme lucius
 
