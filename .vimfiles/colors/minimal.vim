@@ -46,22 +46,52 @@ let g:colors_name = "minimal"
 "highlight CursorColumn
 "highlight CursorLine
 "highlight ColorColumn
-"highlight Cursor
+highlight Cursor guifg=#ffffff guibg=#000000
 
-"highlight lCursor
-"highlight MatchParen
-"highlight Normal
+highlight lCursor guifg=#ffffff guibg=#000000
+highlight MatchParen guifg=#ffffff guibg=#808080
+highlight Normal guifg=#000000 guibg=#ffffff
 highlight Comment guifg=#3f7f5f
+
 highlight Constant guifg=#2a00ff
-"highlight Special
-"highlight Identifier
-highlight Function gui=bold
+"highlight String guifg=#2a00ff
+"highlight Character guifg=#2a00ff
+"highlight Number guifg=#000000
+highlight Boolean gui=bold guifg=#7f0055
+"highlight Float guifg=#000000
+
+"highlight Identifier guifg=#000000
+highlight Function gui=bold guifg=#000000
+
 highlight Statement guifg=#7f0055 gui=bold
+"highlight Conditional
+"highlight Repeat
+highlight Label gui=underline 
+"highlight Operator
+"highlight Keyword
+"highlight Exception
+
 highlight PreProc guifg=#7f0055 gui=bold
+"highlight Include
+"highlight Define
+"highlight Macro
+"highlight PreCondit
+
 highlight Type guifg=#7f0055 gui=bold
+"highlight StorageClass
+"highlight Structure
+"highlight Typedef
+
+"highlight Special
+"highlight SpecialChar
+"highlight Tag
+"highlight Delimiter
+"highlight SpecialComment
+"highlight Debug
+
 "highlight Underlined
 "highlight Ignore
 "highlight Error
-"highlight Todo
+"highlight Todo guifg=#7f9fbf guibg=bg
 "highlight helpNormal
 "highlight helpLeadBlank
