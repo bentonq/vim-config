@@ -13,7 +13,7 @@ let g:mapleader=","
 
 " When started as 'evim', evim.vim will already have done there settings.
 if v:progname =~?"evim"
-    finish
+	finish
 endif
 
 " Not be compatible with vi.
@@ -55,7 +55,7 @@ language messages en_US.utf-8
 " Restore cursor position.
 autocmd BufReadPost *
 \ if line("'\"") > 1 && line("'\"") <= line("$") |
-\   exe "normal! g`\"" |
+\ 	exe "normal! g`\"" |
 \ endif
 
 " """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -96,7 +96,7 @@ set guioptions-=T
 
 " Enable mouse in all modes.
 if has('mouse')
-    set mouse=a
+	set mouse=a
 endif
 
 " Move among windows hotkey.
@@ -112,7 +112,7 @@ nnoremap <silent><C-k> <C-W>k
 set tabstop=4
 set softtabstop=4
 set shiftwidth=4
-set expandtab
+set noexpandtab
 set smarttab
 
 " Smartindnet services well, don't need cindent.
@@ -142,7 +142,7 @@ syntax enable
 
 " Colors.
 set t_Co=256
-colorscheme minimal
+colorscheme mayansmoke
 
 " Font family and size.
 set guifont=Consolas:h10:cANSI
@@ -164,11 +164,11 @@ set tags=./tags;
 
 " Add pre-generated tags.
 if has('win32')
-    set tags+=$VIM/vimfiles/.extradata/tags/cpp
-    set tags+=$VIM/vimfiles/.extradata/tags/gl
+	set tags+=$VIM/vimfiles/.extradata/tags/cpp
+	set tags+=$VIM/vimfiles/.extradata/tags/gl
 else
-    set tags+=~/.vim/.extradata/tags/cpp
-    set tags+=~/.vim/.extradata/tags/gl
+	set tags+=~/.vim/.extradata/tags/cpp
+	set tags+=~/.vim/.extradata/tags/gl
 endif
 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""

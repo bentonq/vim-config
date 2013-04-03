@@ -6,7 +6,7 @@ BentonQ's Vim Config Files
 ## Features
 
 ### Color Schemes:
-- My custom color schemes: minimal
+- mayansmoke : Ergonomic light-background color scheme v2.9 (2010-10-13)
 
 ### Plugins:
 - NERD_tree v4.2.0 (2011-12-28)
