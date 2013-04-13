@@ -142,7 +142,7 @@ syntax enable
 
 " Colors.
 set t_Co=256
-colorscheme mayansmoke
+colorscheme github
 
 " Font family and size.
 set guifont=Consolas:h10:cANSI
