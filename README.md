@@ -1,12 +1,5 @@
-BentonQ's Vim Config Files
+Bentonq's Vim Config Files
 ---------------------------
-
-## Installing
-
-## Features
-
-### Color Schemes:
-- mayansmoke : Ergonomic light-background color scheme v2.9 (2010-10-13)
 
 ### Plugins:
 - NERD_tree v4.2.0 (2011-12-28)
@@ -16,6 +9,8 @@ BentonQ's Vim Config Files
 - supertab v2.0 (2012-06-01)
 - AutoComplPop v2.14.1 (2009-12-12)
 - ZenCoding v0.80 (2012-11-19)
+- ColorSamplerPack v2012.10.28
+- ScrollColor v20060719
 
 ### Syntaxes:
 - jquery v0.5.2 (2011-05-29)

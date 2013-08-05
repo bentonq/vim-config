@@ -142,7 +142,7 @@ syntax enable
 
 " Colors.
 set t_Co=256
-colorscheme github
+colorscheme xoria256
 
 " Font family and size.
 set guifont=Consolas:h10:cANSI
