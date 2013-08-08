@@ -115,8 +115,9 @@ set shiftwidth=4
 set noexpandtab
 set smarttab
 
-" Smartindnet services well, don't need cindent.
-set smartindent
+" Cindent
+set cindent
+set cino=:0,l1,g0,N-s,i2s,+2s,u0
 
 " Keep cursor 5 lines away from the top or the bottom .
 set scrolloff=5
