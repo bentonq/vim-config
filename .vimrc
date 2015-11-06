@@ -1,26 +1,36 @@
-" ============================================================================
-" Author: BentonQ <bentonq@gmail.com>
-" Created: 2012/06/15
-" Modified: 2013/02/09
-" ============================================================================
+" """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" Author: Ning Yi <bentonq@gmail.com>
+" """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-" """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" General
-" """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" Define the <leader> at the very beginning.
-let mapleader=","
-let g:mapleader=","
+" Vundle setting
+" """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-" When started as 'evim', evim.vim will already have done there settings.
-if v:progname =~?"evim"
-    finish
-endif
+set nocompatible              " be iMproved, required
+filetype off                  " required
 
-" Not be compatible with vi.
-set nocompatible
+" Linux runtime path
+set rtp+=~/.vim/bundle/vundle/
+call vundle#rc()
 
-" Don't use Ex-mode, use Q for formatting.
-map Q gq
+" Windows runtime path
+"set rtp+=~/vimfiles/bundle/vundle/
+"let path='~/vimfiles/bundle'
+"call vundle#rc(path)
+
+Plugin 'gmarik/vundle'
+Plugin 'tomasr/molokai'
+Plugin 'kien/ctrlp.vim'
+Plugin 'ervandew/supertab'
+Plugin 'scrooloose/nerdtree'
+Plugin 'vim-scripts/AutoComplPop'
+
+let g:SuperTabMappingForward='<s-tab>'
+let g:SuperTabMappingBackward='<tab>'
+
+nnoremap <silent><c-n> :NERDTreeToggle<cr>
+
+" General setting
+" """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 " Make backspace working like 'backspace' in edit mode.
 set backspace=indent,eol,start
@@ -38,7 +48,7 @@ set autoread
 set autowrite
 
 " Max history item number.
-set history=50
+set history=1024
 
 " Always use utf-8 as character encoding.
 set encoding=utf-8
@@ -52,15 +62,6 @@ source $VIMRUNTIME/menu.vim
 " Fix console message garbled.
 language messages en_US.utf-8
 
-" Restore cursor position.
-autocmd BufReadPost *
-\ if line("'\"") > 1 && line("'\"") <= line("$") |
-\     exe "normal! g`\"" |
-\ endif
-
-" """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" Layout Options
-" """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " Show the line and column number of the cursor position.
 set ruler
 
@@ -99,15 +100,6 @@ if has('mouse')
     set mouse=a
 endif
 
-" Move among windows hotkey.
-nnoremap <silent><C-h> <C-W>h
-nnoremap <silent><C-l> <C-W>l
-nnoremap <silent><C-j> <C-W>j
-nnoremap <silent><C-k> <C-W>k
-
-" """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" Edit Options
-" """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " Tab settings.
 set tabstop=4
 set softtabstop=4
@@ -122,9 +114,6 @@ set cino=:0,l1,g0,N-s,i2s,+2s,u0
 " Keep cursor 5 lines away from the top or the bottom .
 set scrolloff=5
 
-" """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" Search Options
-" """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " Incremental search.
 set incsearch
 
@@ -135,15 +124,12 @@ set hlsearch
 set noignorecase
 set infercase
 
-" """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" Theme Options
-" """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " Enable syntax highlighting.
 syntax enable
 
 " Colors.
 set t_Co=256
-colorscheme xoria256
+colorscheme molokai
 
 " Font family and size.
 set guifont=Consolas:h10:cANSI
@@ -154,46 +140,12 @@ set lcs=tab:@@,trail:^,eol:$
 " Cursor blink.
 set guicursor=a:blinkwait700-blinkon800-blinkoff500
 
-""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" Tags
-""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" Gen tag command.
-map <C-F12> :silent !ctags -R --c++-kinds=+p --fields=+iaS --extra=+q --language-force=c++ <CR><CR>
+" Avoiding the 'Hit ENTER to continue' prompts
+set cmdheight=2
 
-" Search 'tags' from the current folder up to the '/'.
-set tags=./tags;
+" Move among windows hotkey.
+nnoremap <silent><C-h> <C-W>h
+nnoremap <silent><C-l> <C-W>l
+nnoremap <silent><C-j> <C-W>j
+nnoremap <silent><C-k> <C-W>k
 
-" Add pre-generated tags.
-if has('win32')
-    set tags+=$VIM/vimfiles/.extradata/tags/cpp
-    set tags+=$VIM/vimfiles/.extradata/tags/gl
-else
-    set tags+=~/.vim/.extradata/tags/cpp
-    set tags+=~/.vim/.extradata/tags/gl
-endif
-
-""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" Plugins
-""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" NERD_tree.
-let g:NERDTreeWinPos="right"
-nnoremap <silent><F3> :NERDTreeToggle<CR>
-
-" omnicppcomplete.
-let OmniCpp_DefaultNamespaces=["std", "_GLIBCXX_STD"]
-let OmniCpp_ShowPrototypeInAbbr=1
-let OmniCpp_MayCompleteScope=1
-let OmniCpp_LocalSearchDecl=1
-
-" tagbar.
-let g:tagbar_left=1
-let g:tagbar_sort=0
-nnoremap <silent><F2> :TagbarToggle<CR>
-
-" fswitch.
-nnoremap <silent><F4> :FSHere<CR>
-nnoremap <silent><s-F4> :FSSplitRight<CR>
-
-" supertab.
-let g:SuperTabMappingForward='<s-tab>'
-let g:SuperTabMappingBackward='<tab>'
